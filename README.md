@@ -13,3 +13,10 @@ example:
     
 That's it
 
+
+***
+
+> you are free to use it for your project but always give credit | This API is not for
+> commercial use
+
+***
