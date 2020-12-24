@@ -3,6 +3,7 @@
 ## How to download pinterest video with this api
 
     https://pinterest-video-api.herokuapp.com/
+   
 
 
 To use the API make a get request here with the video url after the slash
@@ -20,3 +21,5 @@ That's it
 > commercial use
 
 ***
+
+    see here for live version https://www.pinterestdownloder.video/
