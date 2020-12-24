@@ -22,4 +22,4 @@ That's it
 
 ***
 
-    see here for live version https://www.pinterestdownloder.video/
+    see here for live version(https://www.pinterestdownloder.video/)
