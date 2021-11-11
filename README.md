@@ -1,26 +1,16 @@
-# Pinterest-video-downloader-free-api
-
-## How to download pinterest video with this api
-
-    https://pinterest-video-api.herokuapp.com/
-   
+# Pinterest-video- and idea pin downloader-free-api
 
 
-To use the API make a get request here with the video url after the slash
-
-example: 
-
-    https://pinterest-video-api.herokuapp.com/https://www.pinterest.com/pin/580823683184876440/
-    
-That's it
-
+        This API can download any pinterest video or idea pin in hd format
 
 ***
 
-> you are free to use it for your project but always give credit | This API is not for
-> commercial use
+> Due to lots of request i'm shutting the free version of this API, if you want to use the API for business purpose, please contact me at xl4bhi@gmail.com
 
 ***
 
+
+
+        This API can download any pinterest video or idea pin in hd format
     
   See here for live version [pinterest video downloader(https://www.pinterestdownloder.video/)](https://www.pinterestdownloder.video/)
